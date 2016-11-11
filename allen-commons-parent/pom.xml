@@ -21,6 +21,11 @@
   		<spring.mvc.version>4.1.4.RELEASE</spring.mvc.version>
   		<spring.jdbc.version>4.1.4.RELEASE</spring.jdbc.version>
   		
+  		
+  		<!-- log相关版本定义 -->
+  		<org.slf4j.api.version>1.7.9</org.slf4j.api.version>
+  		<log4j.version>1.2.14</log4j.version>
+  		
   	
   </properties>
   
