@@ -17,10 +17,12 @@
   		<!-- spring 版本定义 -->
   		<spring.core.version>4.2.5.RELEASE</spring.core.version>
   		<spring.context.version>4.2.5.RELEASE</spring.context.version>
+  		<spring.context.support.version>4.2.5.RELEASE</spring.context.support.version>
+  		<spring.beans.version>4.2.5.RELEASE</spring.beans.version>
+  		<spring.aop.version>4.2.5.RELEASE</spring.aop.version>
   		<spring.web.version>4.2.5.RELEASE</spring.web.version>
   		<spring.mvc.version>4.2.5.RELEASE</spring.mvc.version>
   		<spring.jdbc.version>4.2.5.RELEASE</spring.jdbc.version>
-  		
   		
   		<!-- log相关版本定义 -->
   		<org.slf4j.api.version>1.7.9</org.slf4j.api.version>
