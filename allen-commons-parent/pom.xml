@@ -35,6 +35,7 @@
   		
   		<!-- 自定义公共组件版本定义 -->
   		<commons.baselibs.version>1.0.0</commons.baselibs.version>
+  		<custom.define.version>1.0.0</custom.define.version>
   	
   </properties>
   
