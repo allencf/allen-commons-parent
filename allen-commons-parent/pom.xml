@@ -23,12 +23,19 @@
   		<spring.web.version>4.2.5.RELEASE</spring.web.version>
   		<spring.mvc.version>4.2.5.RELEASE</spring.mvc.version>
   		<spring.jdbc.version>4.2.5.RELEASE</spring.jdbc.version>
-  		
-  		
+
   		<!-- log相关版本定义 -->
   		<org.slf4j.api.version>1.7.9</org.slf4j.api.version>
   		<log4j.version>1.2.14</log4j.version>
   		
+  		<!-- commons 相关依赖版本定义 -->
+  		<commons.lang3.version>3.3.2</commons.lang3.version>
+  		<commons.collection4.version>4.1</commons.collection4.version>
+  		
+  		WW
+  		<!-- 自定义公共组件版本定义 -->
+  		<commons.baselibs.version>1.0.0</commons.baselibs.version>
+  		<custom.define.version>1.0.0</custom.define.version>
   	
   </properties>
   
