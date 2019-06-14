@@ -32,7 +32,7 @@
   		<commons.lang3.version>3.3.2</commons.lang3.version>
   		<commons.collection4.version>4.1</commons.collection4.version>
   		
-  		WW
+  		
   		<!-- 自定义公共组件版本定义 -->
   		<commons.baselibs.version>1.0.0</commons.baselibs.version>
   		<custom.define.version>1.0.0</custom.define.version>
